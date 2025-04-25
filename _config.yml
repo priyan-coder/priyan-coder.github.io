@@ -22,7 +22,7 @@ repository: 'priyan-coder/priyan-coder.github.io'
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: 'Priyan_profile_2.jpg'
+  avatar: 'profile_3_priyan.jpg'
   name: 'Balashanmuga Priyan Rajamohan'
   pronouns: 'he/him'
   bio: 'Multi-modal Machine Learning Researcher'
